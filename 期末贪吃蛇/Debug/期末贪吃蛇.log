@@ -1,0 +1,10 @@
+﻿  Main.cpp
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(289): warning C4996: 'ege::GetMouseMsg': This function is deprecated, more info visit http://tcgraphics.sourceforge.net/
+  d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\include\ege\ege.h(1364): note: 参见“ege::GetMouseMsg”的声明
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(350): warning C4996: 'ege::GetMouseMsg': This function is deprecated, more info visit http://tcgraphics.sourceforge.net/
+  d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\include\ege\ege.h(1364): note: 参见“ege::GetMouseMsg”的声明
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(428): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(482): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+  期末贪吃蛇.vcxproj -> D:\VS2017\VS\期末贪吃蛇\Debug\期末贪吃蛇.exe

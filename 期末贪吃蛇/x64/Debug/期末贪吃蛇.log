@@ -1,0 +1,15 @@
+﻿  Main.cpp
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(201): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [26]”转换为“LPCWSTR”
+  d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(201): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(202): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [15]”转换为“LPCWSTR”
+  d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(202): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(227): warning C4996: 'ege::GetMouseMsg': This function is deprecated, more info visit http://tcgraphics.sourceforge.net/
+  d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\include\ege\ege.h(1364): note: 参见“ege::GetMouseMsg”的声明
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(239): warning C4996: 'ege::GetMouseMsg': This function is deprecated, more info visit http://tcgraphics.sourceforge.net/
+  d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\include\ege\ege.h(1364): note: 参见“ege::GetMouseMsg”的声明
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(276): warning C4996: 'ege::GetMouseMsg': This function is deprecated, more info visit http://tcgraphics.sourceforge.net/
+  d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\include\ege\ege.h(1364): note: 参见“ege::GetMouseMsg”的声明
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(371): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+d:\vs2017\vs\期末贪吃蛇\期末贪吃蛇\main.cpp(388): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
